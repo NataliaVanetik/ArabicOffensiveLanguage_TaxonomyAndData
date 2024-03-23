@@ -17,7 +17,7 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | arabic_off_lang_dataset_ID5.xlsx   | Zampieri, Marcos, Preslav Nakov, Sara Rosenthal, Pepa Atanasova, Georgi Karadzhov, Hamdy Mubarak, Leon Derczynski, Zeses Pitenis & Ça˘ grı Çöltekin. 2020. Semeva-2020 task 12: multilingual offensive language identification in social media (offenseval 2020). arXiv preprint arXiv:2006.07235.              |
 | arabic_off_lang_dataset_ID6.xlsx   | Mubarak, Hamdy, Kareem Darwish & Walid Magdy. 2017. Abusive language detection on Arabic social media. In Proceedings of the first workshop on abusive language online, 52–56. |
 | arabic_off_lang_dataset_ID7.xlsx   |  Mubarak, Hamdy, Kareem Darwish & Walid Magdy. 2017. Abusive language detection on Arabic social media. In Proceedings of the first workshop on abusive language online, 52–56. |
-| arabic_off_lang_dataset_ID8.xlsx   |               |
+| arabic_off_lang_dataset_ID8.xlsx   |  Haddad, Hatem, Hala Mulki & Asma Oueslati. 2019. T-HSAB: a Tunisian hate speech and abusive dataset. In International conference on Arabic language processing, 251–263. |
 | arabic_off_lang_dataset_ID9.xlsx   |               |
 | arabic_off_lang_dataset_ID10.xlsx   |               |
 | arabic_off_lang_dataset_ID11.xlsx   |               |

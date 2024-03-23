@@ -2,15 +2,18 @@
 This repository contains existing offensive language datasets in Arabic re-annotated in accordance with a new taxonomy of Arabic offensive language.
 This is a collaborative effort of N. Vanetik, A. Alafawi, M. Litvak, and C. Liebeskind.
 
+<bf>Disclaimer:</bf> It is our purpose to advance the research in the area of detecting offensive language in Arabic. The datasets may contain ome examples of offensive content that may target specific individuals or groups.
+This is strictly for the purposes of enabling this research, and we have sought to minimize the number of examples where possible. Please be aware that this content could be offensive and cause you distress.
+
 There are total of 14 existing datasets that are contained in this repository.
 We supply here the list of files and their origin (papers that describe and introduce them).
 Note that dataset IDs do not contain 1 and 13, and this is intentional. 
 
 | Dataset | Paper |
 |-----------------------------------:|---------------|
-|arabic_off_lang_dataset_ID2.xlsx    |  Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and detection of religious hate speech in the arabic twittersphere. In 2018 IEE/ACM international conference on advances in social networks analysis and mining (ASONAM), 69–76.             |
-| arabic_off_lang_dataset_ID3.xlsx   | Ousidhoum, Nedjma, Zizheng Lin, Hongming Zhang, Yangqiu Song & Dit-Yan Yeung. 2019. Multilingual and multi-aspect hate speech analysis. arXiv preprint arXiv:1908.11049. |
-| arabic_off_lang_dataset_ID4.xlsx   |  Mulki, Hala, Hatem Haddad, Chedi Bechikh Ali & Halima Alshabani. 2019. L-HSAB: a Levantine Twitter dataset for hate speech and abusive language. In Proceedings of the third workshop on abusive language online, 111–118. |
+|arabic_off_lang_dataset_ID2.xlsx    |  Ousidhoum, Nedjma, Zizheng Lin, Hongming Zhang, Yangqiu Song & Dit-Yan Yeung. 2019. Multilingual and multi-aspect hate speech analysis. arXiv preprint arXiv:1908.11049.  |
+| arabic_off_lang_dataset_ID3.xlsx   | Mulki, Hala, Hatem Haddad, Chedi Bechikh Ali & Halima Alshabani. 2019. L-HSAB: a Levantine Twitter dataset for hate speech and abusive language. In Proceedings of the third workshop on abusive language online, 111–118. Alakrot, Azalden, Liam Murray & Nikola S Nikolov. 2018. Dataset construction for the detection of anti-social behaviour in online communication in arabic. Procedia Computer Science 142. 174–181. |
+| arabic_off_lang_dataset_ID4.xlsx   |  |
 | arabic_off_lang_dataset_ID5.xlsx   |               |
 | arabic_off_lang_dataset_ID6.xlsx   |               |
 | arabic_off_lang_dataset_ID7.xlsx   |               |

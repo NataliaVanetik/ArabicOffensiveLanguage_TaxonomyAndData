@@ -4,7 +4,7 @@ This is a collaborative effort of N. Vanetik, A. Alafawi, M. Litvak, and C. Lieb
 
 There are total of 14 existing datasets that are contained in this repository.
 We supply here the list of files and their origin (papers that describe and introduce them).
-Note that dataset IDs do not contain 1 and 13, and this is intentional.
+Note that dataset IDs do not contain 1 and 13, and this is intentional. 
 
 | Dataset | Paper |
 |-----------------------------------:|---------------|

@@ -18,7 +18,7 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | arabic_off_lang_dataset_ID6.xlsx   | Mubarak, Hamdy, Kareem Darwish & Walid Magdy. 2017. Abusive language detection on Arabic social media. In Proceedings of the first workshop on abusive language online, 52–56. |
 | arabic_off_lang_dataset_ID7.xlsx   |  Mubarak, Hamdy, Kareem Darwish & Walid Magdy. 2017. Abusive language detection on Arabic social media. In Proceedings of the first workshop on abusive language online, 52–56. |
 | arabic_off_lang_dataset_ID8.xlsx   |  Haddad, Hatem, Hala Mulki & Asma Oueslati. 2019. T-HSAB: a Tunisian hate speech and abusive dataset. In International conference on Arabic language processing, 251–263. |
-| arabic_off_lang_dataset_ID9.xlsx   |               |
+| arabic_off_lang_dataset_ID9.xlsx   |  Chowdhury, Shammur Absar, Hamdy Mubarak, Ahmed Abdelali, Soon-gyo Jung, Bernard J Jansen & Joni Salminen. 2020. A multi-platform Arabic news comment dataset for offensive language detection. In Proceedings of the twelfth language resources and evaluation conference, 6203–6212.            |
 | arabic_off_lang_dataset_ID10.xlsx   |               |
 | arabic_off_lang_dataset_ID11.xlsx   |               |
 | arabic_off_lang_dataset_ID12.xlsx   |               |

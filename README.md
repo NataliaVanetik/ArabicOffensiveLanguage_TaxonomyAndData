@@ -9,8 +9,8 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | Dataset | Paper |
 |-----------------------------------:|---------------|
 |arabic_off_lang_dataset_ID2.xlsx    |  Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and detection of religious hate speech in the arabic twittersphere. In 2018 IEE/ACM international conference on advances in social networks analysis and mining (ASONAM), 69–76.             |
-| arabic_off_lang_dataset_ID3.xlsx   |               |
-| arabic_off_lang_dataset_ID4.xlsx   |               |
+| arabic_off_lang_dataset_ID3.xlsx   | Ousidhoum, Nedjma, Zizheng Lin, Hongming Zhang, Yangqiu Song & Dit-Yan Yeung. 2019. Multilingual and multi-aspect hate speech analysis. arXiv preprint arXiv:1908.11049. |
+| arabic_off_lang_dataset_ID4.xlsx   |  Mulki, Hala, Hatem Haddad, Chedi Bechikh Ali & Halima Alshabani. 2019. L-HSAB: a Levantine Twitter dataset for hate speech and abusive language. In Proceedings of the third workshop on abusive language online, 111–118. |
 | arabic_off_lang_dataset_ID5.xlsx   |               |
 | arabic_off_lang_dataset_ID6.xlsx   |               |
 | arabic_off_lang_dataset_ID7.xlsx   |               |
@@ -22,7 +22,6 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | arabic_off_lang_dataset_ID14.xlsx   |               |
 | arabic_off_lang_dataset_ID15.xlsx   |               |
 | arabic_off_lang_dataset_ID16.xlsx   |               |
-|-----------------------------------:|---------------|
 
 dataset                             
 Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and

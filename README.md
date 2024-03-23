@@ -23,28 +23,7 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | arabic_off_lang_dataset_ID15.xlsx   |               |
 | arabic_off_lang_dataset_ID16.xlsx   |               |
 
-dataset                             
-Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and
-detection of religious hate speech in the arabic twittersphere. In 2018 ieee/acm international
-conference on advances in social networks analysis and mining (asonam), 69–76.
-                                    
- 
-arabic_off_lang_dataset_ID4.xlsx 
-arabic_off_lang_dataset_ID5.xlsx 
-arabic_off_lang_dataset_ID6.xlsx 
-arabic_off_lang_dataset_ID7.xlsx 
-arabic_off_lang_dataset_ID8.xlsx 
-arabic_off_lang_dataset_ID9.xlsx 
-arabic_off_lang_dataset_ID10.xlsx 
-arabic_off_lang_dataset_ID11.xlsx 
-arabic_off_lang_dataset_ID12.xlsx 
-arabic_off_lang_dataset_ID14.xlsx 
-arabic_off_lang_dataset_ID15.xlsx 
-arabic_off_lang_dataset_ID16.xlsx 
 
-
-        2 & \citep{ousidhoum2019multilingual} & Twitter & 3,353 & offensive and non-offensive, hate speech, target presense, target & undetermined & - \\
-        3 & \citep{mulki2019hsab} & Twitter & 5,846 & hate, abusive, normal speech & Levantine & - \\
         4 & \citep{alakrot2018dataset} & YouTube & 15,050 & offensive, inoffensive & undetermined & - \\
         5 & \citep{zampieri2020semeval} & Twitter &  10,000 & offensive, vulgar, hate speech,  clean & Egyptian, Levantine, Maghrebi, and Gulf  & - \\
         6 & \citep{mubarak2017abusive} & Aljazeera & 31,692 & obscene, offensive,  clean & Egyptian \\

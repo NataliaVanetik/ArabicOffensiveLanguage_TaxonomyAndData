@@ -2,21 +2,21 @@
 This repository contains existing offensive language datasets in Arabic re-annotated in accordance with a new taxonomy of Arabic offensive language.
 This is a collaborative effort of N. Vanetik, A. Alafawi, M. Litvak, and C. Liebeskind.
 
-<bf>Disclaimer:</bf> It is our purpose to advance the research in the area of detecting offensive language in Arabic. The datasets may contain ome examples of offensive content that may target specific individuals or groups.
+DISCLAIMER: It is our purpose to advance the research in the area of detecting offensive language in Arabic. The datasets may contain ome examples of offensive content that may target specific individuals or groups.
 This is strictly for the purposes of enabling this research, and we have sought to minimize the number of examples where possible. Please be aware that this content could be offensive and cause you distress.
 
 There are total of 14 existing datasets that are contained in this repository.
-We supply here the list of files and their origin (papers that describe and introduce them).
+We supply here the list of files and their origin (papers that describe and introduce them). All of the datasets were made publically available by their respective authors at the time of their publication.
 Note that dataset IDs do not contain 1 and 13, and this is intentional. 
 
 | Dataset | Paper |
 |-----------------------------------:|---------------|
 |arabic_off_lang_dataset_ID2.xlsx    |  Ousidhoum, Nedjma, Zizheng Lin, Hongming Zhang, Yangqiu Song & Dit-Yan Yeung. 2019. Multilingual and multi-aspect hate speech analysis. arXiv preprint arXiv:1908.11049.  |
 | arabic_off_lang_dataset_ID3.xlsx   | Mulki, Hala, Hatem Haddad, Chedi Bechikh Ali & Halima Alshabani. 2019. L-HSAB: a Levantine Twitter dataset for hate speech and abusive language. In Proceedings of the third workshop on abusive language online, 111–118. Alakrot, Azalden, Liam Murray & Nikola S Nikolov. 2018. Dataset construction for the detection of anti-social behaviour in online communication in arabic. Procedia Computer Science 142. 174–181. |
-| arabic_off_lang_dataset_ID4.xlsx   |  |
-| arabic_off_lang_dataset_ID5.xlsx   |               |
-| arabic_off_lang_dataset_ID6.xlsx   |               |
-| arabic_off_lang_dataset_ID7.xlsx   |               |
+| arabic_off_lang_dataset_ID4.xlsx   |  Alakrot, Azalden, Liam Murray & Nikola S Nikolov. 2018. Dataset construction for the detection of anti-social behaviour in online communication in Arabic. Procedia Computer Science 142. 174–181. |
+| arabic_off_lang_dataset_ID5.xlsx   | Zampieri, Marcos, Preslav Nakov, Sara Rosenthal, Pepa Atanasova, Georgi Karadzhov, Hamdy Mubarak, Leon Derczynski, Zeses Pitenis & Ça˘ grı Çöltekin. 2020. Semeva-2020 task 12: multilingual offensive language identification in social media (offenseval 2020). arXiv preprint arXiv:2006.07235.              |
+| arabic_off_lang_dataset_ID6.xlsx   | Mubarak, Hamdy, Kareem Darwish & Walid Magdy. 2017. Abusive language detection on Arabic social media. In Proceedings of the first workshop on abusive language online, 52–56. |
+| arabic_off_lang_dataset_ID7.xlsx   |  Mubarak, Hamdy, Kareem Darwish & Walid Magdy. 2017. Abusive language detection on Arabic social media. In Proceedings of the first workshop on abusive language online, 52–56. |
 | arabic_off_lang_dataset_ID8.xlsx   |               |
 | arabic_off_lang_dataset_ID9.xlsx   |               |
 | arabic_off_lang_dataset_ID10.xlsx   |               |

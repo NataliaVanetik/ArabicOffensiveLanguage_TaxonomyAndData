@@ -24,26 +24,9 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | arabic_off_lang_dataset_ID12.xlsx   | Aref, Abdullah, Rana Husni Al Mahmoud, Khaled Taha, Mahmoud Al-Sharif, et al. 2020. Hate speech detection of Arabic shorttext. In CS IT Conf. proc, vol. 10, 81–94. |
 | arabic_off_lang_dataset_ID14.xlsx   | Mulki, Hala & Bilal Ghanem. 2021. Let-Mi: an Arabic Levantine Twitter dataset for misogynistic language. arXiv preprint arXiv:2103.10195.  |
 | arabic_off_lang_dataset_ID15.xlsx   | Litvak, Marina, Natalia Vanetik, Yaser Nimer, Abdulrhman Skout. 2021. Offensive language detection in semitic languages. In Multimodal hate speech workshop, vol. 2021, 7–12. |
-| arabic_off_lang_dataset_ID16.xlsx   |               |
+| arabic_off_lang_dataset_ID16.xlsx   |  Alhazmi, Ali. 2023. Hate Speech Dataset for the Saudi Dialect. Mendeley Data. Version V1. https://doi.org/10.17632/c2jpnv9yk6.1. |
 
 
-        4 & \citep{alakrot2018dataset} & YouTube & 15,050 & offensive, inoffensive & undetermined & - \\
-        5 & \citep{zampieri2020semeval} & Twitter &  10,000 & offensive, vulgar, hate speech,  clean & Egyptian, Levantine, Maghrebi, and Gulf  & - \\
-        6 & \citep{mubarak2017abusive} & Aljazeera & 31,692 & obscene, offensive,  clean & Egyptian \\
-        7 & \citep{mubarak2017abusive} & Twitter & 1,100 & hate speech, insults,  offensive & MSA & -\\
-        8 & \citep{haddad2019t} & social media & 6,039 & abusive, hate, normal & Tunisian (Maghrebi) & -\\
-        9 & \citep{chowdhury2020multi} & Twitter, Facebook, and YouTube & 4,000 & offensive, non-offensive, vulgar, hate speech & various dialects and MSA & -\\
-        \hline
-        10 & \citep{abdelhakim2023ar} & YouTube  & 8,025 & offensive, non-offensive & Egyptian & public figures\\
-        \hline
-        11 & \citep{essefar2023omcd} & YouTube & 20,403 & offensive, non-offensive & Moroccan & -\\
-        \hline
-        12 & \citep{aref2020hate} & Twitter & 3,235 & hate speech, not hate speech & undetermined & religious hate speech\\
-        \hline
-        13 & \citep{ahmad7hate} & Twitter & 403,688 & severe hate speech, hate speech, ambivalent, no hate speech & undetermined & religious hate speech\\
-        \hline
-        14 & \citep{mulki2021let} & Twitter & 6,603 & None, Discredit, Derailing, Dominance, Stereotyping and Objectification, Threat of violence, Sexual Harassment, and Damning & Levantine & misogyny\\
-        \hline
-        15 & \citep{litvak2021offensive} & Twitter & 9,194 & offensive, not offensive & MSA and Levantine & -\\
-        16 & \citep{alhazmi2023} & Twitter &  23,000 & offensive, not offensive & Saudi & -\\
-        \hline        
+All the datasets have been re-organized in accordance to our new Arabic Offensive Language Taxonomy (to be published). Because not all of the data has existing annotations for all of the taxonomy level, in these cases 'null' indicates 'no annotation'.
+We also specify dialect of every dataset, if it could be determined; if no specific dialect can be identified or the texts are in Modern Standard Arabic (MSA), the corresponding column contains 'null'.
+We did not modify the data in any way, and did not clean it - the data may contain non-Arabic characters, emojis, or even full texts in languages other than Arabic.

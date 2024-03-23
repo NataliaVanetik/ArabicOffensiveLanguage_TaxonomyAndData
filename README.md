@@ -20,7 +20,7 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | arabic_off_lang_dataset_ID8.xlsx   |  Haddad, Hatem, Hala Mulki & Asma Oueslati. 2019. T-HSAB: a Tunisian hate speech and abusive dataset. In International conference on Arabic language processing, 251–263. |
 | arabic_off_lang_dataset_ID9.xlsx   |  Chowdhury, Shammur Absar, Hamdy Mubarak, Ahmed Abdelali, Soon-gyo Jung, Bernard J Jansen & Joni Salminen. 2020. A multi-platform Arabic news comment dataset for offensive language detection. In Proceedings of the twelfth language resources and evaluation conference, 6203–6212.            |
 | arabic_off_lang_dataset_ID10.xlsx   | Abdelhakim, Mohamed, Bingquan Liu & Chengie Sun. 2023. Ar-pufi: a short-text dataset to identify the offensive messages towards public figures in the Arabian community. Expert Systems with Applications. 120888. |
-| arabic_off_lang_dataset_ID11.xlsx   |               |
+| arabic_off_lang_dataset_ID11.xlsx   |  Essefar, Kabil, Hassan Ait Baha, Abdelkader El Mahdaouy, Abdellah El Mekki & Ismail Berrada. 2023. OMCD: offensive moroccan comments dataset. Language Resources and Evaluation. 1–21. |
 | arabic_off_lang_dataset_ID12.xlsx   |               |
 | arabic_off_lang_dataset_ID14.xlsx   |               |
 | arabic_off_lang_dataset_ID15.xlsx   |               |

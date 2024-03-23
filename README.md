@@ -6,14 +6,15 @@ There are total of 14 existing datasets that are contained in this repository.
 We supply here the list of files and their origin (papers that describe and introduce them).
 Note that dataset IDs do not contain 1 and 13, and this is intentional.
 
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
+| Dataset | Paper |
+|-----------------------------------:|---------------|
+|arabic_off_lang_dataset_ID2.xlsx    |  Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and
+detection of religious hate speech in the arabic twittersphere. In 2018 ieee/acm international
+conference on advances in social networks analysis and mining (asonam), 69–76.             |
 |     2|               |
 |     3|               |
 
 dataset                             
-arabic_off_lang_dataset_ID2.xlsx    
 Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and
 detection of religious hate speech in the arabic twittersphere. In 2018 ieee/acm international
 conference on advances in social networks analysis and mining (asonam), 69–76.

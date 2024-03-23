@@ -9,15 +9,27 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | Dataset | Paper |
 |-----------------------------------:|---------------|
 |arabic_off_lang_dataset_ID2.xlsx    |  Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and detection of religious hate speech in the arabic twittersphere. In 2018 IEE/ACM international conference on advances in social networks analysis and mining (ASONAM), 69–76.             |
-|     2|               |
-|     3|               |
+| arabic_off_lang_dataset_ID3.xlsx   |               |
+| arabic_off_lang_dataset_ID4.xlsx   |               |
+| arabic_off_lang_dataset_ID5.xlsx   |               |
+| arabic_off_lang_dataset_ID6.xlsx   |               |
+| arabic_off_lang_dataset_ID7.xlsx   |               |
+| arabic_off_lang_dataset_ID8.xlsx   |               |
+| arabic_off_lang_dataset_ID9.xlsx   |               |
+| arabic_off_lang_dataset_ID10.xlsx   |               |
+| arabic_off_lang_dataset_ID11.xlsx   |               |
+| arabic_off_lang_dataset_ID12.xlsx   |               |
+| arabic_off_lang_dataset_ID14.xlsx   |               |
+| arabic_off_lang_dataset_ID15.xlsx   |               |
+| arabic_off_lang_dataset_ID16.xlsx   |               |
+|-----------------------------------:|---------------|
 
 dataset                             
 Albadi, Nuha, Maram Kurdi & Shivakant Mishra. 2018. Are they our brothers? analysis and
 detection of religious hate speech in the arabic twittersphere. In 2018 ieee/acm international
 conference on advances in social networks analysis and mining (asonam), 69–76.
                                     
-arabic_off_lang_dataset_ID3.xlsx 
+ 
 arabic_off_lang_dataset_ID4.xlsx 
 arabic_off_lang_dataset_ID5.xlsx 
 arabic_off_lang_dataset_ID6.xlsx 

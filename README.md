@@ -1,6 +1,6 @@
 # ArabicOffensiveLanguage_TaxonomyAndData
 This repository contains existing offensive language datasets in Arabic re-annotated in accordance with a new taxonomy of Arabic offensive language.
-This is a collaborative effort of N. Vanetik, A. Alafawi, M. Litvak, and C. Liebeskind.
+This is a collaborative effort of N. Vanetik, A. Al-Afawi, M. Litvak, and C. Liebeskind.
 
 DISCLAIMER: It is our purpose to advance the research in the area of detecting offensive language in Arabic. The datasets may contain ome examples of offensive content that may target specific individuals or groups.
 This is strictly for the purposes of enabling this research, and we have sought to minimize the number of examples where possible. Please be aware that this content could be offensive and cause you distress.

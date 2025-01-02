@@ -27,6 +27,8 @@ Note that dataset IDs do not contain 1 and 13, and this is intentional.
 | arabic_off_lang_dataset_ID16.xlsx   |  Alhazmi, Ali. 2023. Hate Speech Dataset for the Saudi Dialect. Mendeley Data. Version V1. https://doi.org/10.17632/c2jpnv9yk6.1. |
 
 
-All the datasets have been re-organized in accordance to our new Arabic Offensive Language Taxonomy (to be published). Because not all of the data has existing annotations for all of the taxonomy level, in these cases 'null' indicates 'no annotation'.
+All the datasets have been re-organized in accordance to our new Arabic Offensive Language Taxonomy (published in [1]). Because not all of the data has existing annotations for all of the taxonomy level, in these cases 'null' indicates 'no annotation'.
 We also specify dialect of every dataset, if it could be determined; if no specific dialect can be identified or the texts are in Modern Standard Arabic (MSA), the corresponding column contains 'null'.
 We did not modify the data in any way, and did not clean it - the data may contain non-Arabic characters, emojis, or even full texts in languages other than Arabic.
+
+[1] Liebeskind, C., Afawi, A., Litvak, M. and Vanetik, N., 2024. Classifying offensive language in Arabic: a novel taxonomy and dataset. Lodz Papers in Pragmatics, (0).

@@ -34,6 +34,4 @@ We did not modify the data in any way, and did not clean it - the data may conta
 [1] Liebeskind, C., Afawi, A., Litvak, M. and Vanetik, N., 2024. Classifying offensive language in Arabic: a novel taxonomy and dataset. Lodz Papers in Pragmatics, (0).
 
 To evaluate the datasets further, we unified datasets that are written in MSA (datasets with IDs 2,4,7,9,12) and excluded those that contain a specific dialect or mix of dialects. 
-The resulting dataset has 26,739 texts, with 
-majority 0.6165 at level 1 and the majority class 0 or ``non-offensive".
-The data is contained in the joint_dataset_MSA_and_Levantine.xlsx file.
+The data is contained in the joint-MSA-dataset-level-1.xlsx file.
